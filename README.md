@@ -125,7 +125,7 @@ Removes files from the repository.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 Contact:
 
-[gvarunrao](https://github.com/gvarunrao)
+[@gvarunrao](https://github.com/gvarunrao)
 
 Gondlyala Varun Rao
 
