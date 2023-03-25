@@ -4,7 +4,7 @@
 
 ### `git init`
 
-Syntax: `git init [repository name]`
+Syntax: `git init <repository name>`
 
 This command is used to create a new Git repository.
    
