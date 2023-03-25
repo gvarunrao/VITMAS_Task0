@@ -2,84 +2,122 @@
 
 ## Basic Commands
 
-### 'git init'
+### `git init`
 
-Syntax: git init
+Syntax: `git init [repository name]`
 
 This command is used to create a new Git repository.
    
-2) git add: This command is used to add changes to the staging area.
+### `git add` 
 
-   Syntax:git add <file>
+Syntax: `git add <file>`
 
-3) git commit: This command is used to commit changes to the repository.
+This command is used to add changes to the staging area.
 
-   Syntax:git commit -m "commit message"
+### `git commit` 
 
-4) git status: This command is used to check the status of the repository.
+Syntax: `git commit -m "commit message"`
+
+This command is used to commit changes to the repository.
+
+### `git status` 
   
-   Syntax:git status
+Syntax: `git status`
 
-5) git log: This command is used to display the commit history.
+This command is used to check the status of the repository.
 
-   Syntax:git log
+### `git log` 
 
-6) git branch: This command is used to manage branches in the repository.
+Syntax: `git log`
 
-   Syntax:git branch <branch-name>
+This command is used to display the commit history.
 
-7) git checkout: This command is used to switch between branches or create a new branch.
+### `git branch` 
 
-   Syntax:git checkout <branch-name>
+Syntax: `git branch <branch-name>`
 
-8) git merge: This command is used to merge changes from one branch to another.
+This command is used to manage branches in the repository.
 
-   Syntax:git merge <branch-name>
+### `git checkout`   
 
-9) git pull: This command is used to fetch and merge changes from a remote repository.
+Syntax: `git checkout <branch-name>`
 
-   Syntax:git pull <remote> <branch>
+This command is used to switch between branches or create a new branch.
 
-10) git push: This command is used to push changes to a remote repository.
+### `git merge` 
+
+Syntax: `git merge <branch-name>`
+
+This command is used to merge changes from one branch to another.
+
+### `git pull` 
+
+Syntax: `git pull <remote> <branch>`
+
+This command is used to fetch and merge changes from a remote repository.
+
+### 'git push'
   
-    Syntax:git push <remote> <branch>
+Syntax: `git push <remote> <branch>`
 
-11) git mv: Renames a file in the repository. 
+This command is used to push changes to a remote repository.
 
-    Syntax:git mv 
+### `git mv`
 
-12) git clone: Clones a remote repository to your local machine.
+Syntax: `git mv`
+
+Renames a file in the repository.
+
+### `git clone`
    
-    Syntax:git clone <repository-url>
+Syntax: `git clone <repository-url>`
 
-13) git remote: Lists or adds remote repositories.
+Clones a remote repository to your local machine.
+
+### `git remote`
     
-    Syntax:git remote/git remote add <remote-name> <repository-url>
-
-14) git fetch: Fetches changes from a remote repository without merging them into the current branch.
-
-    Syntax:git fetch <remote-name> <branch-name>
-
-15) git diff: Shows differences between the working directory and the repository.
+Syntax: `git remote/git remote add <remote-name> <repository-url>`
     
-    Syntax:git diff
+Lists or adds remote repositories.
 
-16) git tag: Lists or creates tags.
+### `git fetch`
 
-    Syntax:git tag/git tag <tag-name>
+Syntax: `git fetch <remote-name> <branch-name>`
     
-17) git stash: Temporarily saves changes that are not ready to be committed.
-    
-    Syntax:git stash
-    
-18) git reset: Resets the repository to a previous commit.
-    
-    Syntax:git reset <commit>
+Fetches changes from a remote repository without merging them into the current branch.
 
-19) git revert: Reverts changes made in a previous commit.
-
-    Syntax:git revert <commit>
-
-20) git rm: Removes files from the repository.
+### `git diff`
     
-    Syntax:git rm <file>
+Syntax: `git diff`
+
+Shows differences between the working directory and the repository.
+
+### `git tag`
+
+Syntax: `git tag/git tag <tag-name>`
+    
+Lists or creates tags.
+    
+### `git stash`
+    
+Syntax: `git stash`
+
+Temporarily saves changes that are not ready to be committed.
+
+### `git reset`
+    
+Syntax: `git reset <commit>`
+    
+Resets the repository to a previous commit.
+
+### `git revert`
+
+Syntax: `git revert <commit>`
+
+Reverts changes made in a previous commit.
+
+### `git rm`
+    
+Syntax: `git rm <file>`
+    
+Removes files from the repository.
