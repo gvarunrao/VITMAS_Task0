@@ -56,7 +56,7 @@ Syntax: `git pull <remote> <branch>`
 
 This command is used to fetch and merge changes from a remote repository.
 
-### 'git push'
+### `git push`
   
 Syntax: `git push <remote> <branch>`
 
