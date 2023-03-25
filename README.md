@@ -1,10 +1,12 @@
 # VITMAS_Task0
 
-## Here are some of the basic Git commands along with their syntax:
+## Basic Commands
 
-### git init: This command is used to create a new Git repository.
+### 'git init'
 
-   Syntax:git init
+Syntax: git init
+
+This command is used to create a new Git repository.
    
 2) git add: This command is used to add changes to the staging area.
 
