@@ -121,3 +121,6 @@ Reverts changes made in a previous commit.
 Syntax: `git rm <file>`
     
 Removes files from the repository.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+@gvarunrao
