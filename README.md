@@ -1,7 +1,8 @@
 # VITMAS_Task0
-Here are some of the basic Git commands along with their syntax:
 
-1) git init: This command is used to create a new Git repository.
+##Here are some of the basic Git commands along with their syntax:
+
+###git init: This command is used to create a new Git repository.
 
    Syntax:git init
    
