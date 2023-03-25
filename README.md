@@ -123,10 +123,6 @@ Syntax: `git rm <file>`
 Removes files from the repository.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-Contact:
-
-[@gvarunrao](https://github.com/gvarunrao)
-
-Gondlyala Varun Rao
+Gondlyala Varun Rao [@gvarunrao](https://github.com/gvarunrao)
 
 21BEE0232
